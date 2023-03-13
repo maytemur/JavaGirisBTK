@@ -1,0 +1,2 @@
+BufferedWriter'la gelen satırBufferedWriter'la gelen satır
+BufferedWriter'la gelen satır
